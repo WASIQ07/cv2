@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+h1{
+    margin:50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Caramel', cursive;
+    color:  #66BFBF;
+   
+
+}
+h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    color: #11999E;
+}
+p{
+    font-weight: bold;
+}
+a{
+    color:#11999E ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    margin: 100px auto;
+    width: 4%;
+    border-width: 7px;
+    border-color: #EAF6F6;
+}
+p{
+    line-height: 2;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.btn:link {
+    
+   padding: 10px 20px 15px 20px;
+   margin: 20px 20px;
+   border: none;
+   border-radius: 8px;
+    background-color: #11999E;
+    color:white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+
+}
+.btn:hover{
+    background-color: #2bc4ad;
+
+}
+.contact-desc{
+    margin: 40px auto 60px auto;
+    width:30%;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+}
+.profile-img
+{
+    padding-top: 50px;
+}
+.code-img{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-right: 30px;
+    
+}
+.web-img{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    
+    
+}
+.middle-container{
+   
+    margin: 100px auto;
+    
+    
+   
+}
+.bottom-container{
+
+      background-color: #66BFBF;
+      margin-top: 100px;
+      padding: 50px 50px;
+    
+    
+}
+.footer-link{
+    margin: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: smaller;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.c-tag{
+    color: #EAF6F6;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 0.75rem;
+}
+.top-cloud
+{
+   position: absolute;
+   right: 300px;
+   top: 40px;
+   
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
